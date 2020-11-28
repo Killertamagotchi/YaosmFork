@@ -1,0 +1,24 @@
+SECTIONS
+{
+	sub_94EC3 = 0x9511E;
+	sub_851F1 = 0x851F3;
+	sub_94F61 = 0x951BC;
+	sub_83E13 = 0x83E15;
+	sub_83E03 = 0x83E05;
+	sub_952B0 = 0x9550B;
+	sub_9241E = 0x92635;
+	sub_838DC = 0x838DE;
+	sub_89E6C = 0x89E73;
+
+	sub_85171 = 0x85173;
+	sub_851a5 = 0x851a7;
+	sub_851aa = 0x851ac;
+	sub_8517e = 0x85180;
+	sub_840b5 = 0x840b7;
+	sub_91e65 = 0x9207c;
+	
+	loc_8cf8f = 0x8cfb4;
+	loc_8d4c7 = 0x8d54a;
+
+	loc_40bd7a = 0x40bd86;
+}

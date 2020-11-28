@@ -1,0 +1,3 @@
+The two LEDs version doesn't have a chip disable feature so NEVER EVER use
+the two LEDs version of yaosm if you have wired pin3 to, for example, the
+reset button (Wiinja style).
